@@ -32,6 +32,8 @@ IEI was tied high (via a 10K resistor).
 
 Test schematic using 74HCT74s is included in the images folder.
 
+This board was also used to provide the Baud Clock for the [Amstrad CPC Z80 DART](https://github.com/rabs664/Amstrad-CPC-Z80-DART).
+
 ## PCBs
 PCBs are available from Seeed Studio but awaiting approval.
 
