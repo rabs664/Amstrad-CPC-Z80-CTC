@@ -1,7 +1,7 @@
 # Amstrad CPC Z80 CTC
 Simple Z80 CTC board compatible with the Amstrad CPC and MX4 connector.
 
-![assembled-board](https://github.com/rabs664/Amstrad-CPC-Z80-CTC/assets/105534000/cb1435c7-e184-4f75-8630-b7f64d54ff40)
+![assembled-board](https://github.com/rabs664/Amstrad-CPC-Z80-CTC/blob/main/Images/assembled-board.jpg)
 
 ## Objective
 Prototyping board to learn about the Z80 CTC, and how to write Z80 assembly using an Amstrad CPC.
