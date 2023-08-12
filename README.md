@@ -30,6 +30,8 @@ The Z80 CTC board has been built and simple testing has been completed on an Ams
 
 IEI was tied high (via a 10K resistor).
 
+Test schematic using 74HCT74s is included in the images folder.
+
 ## PCBs
 PCBs are available from Seeed Studio but awaiting approval.
 
