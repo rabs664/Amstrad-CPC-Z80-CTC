@@ -34,7 +34,7 @@ IEI was tied high (via a 10K resistor).
 PCBs are available from Seeed Studio but awaiting approval.
 
 ## Components
-This Digi-Key List contains all components excluding the Z80 CTC.
+This [Digi-Key](https://www.digikey.co.uk/en/mylists/list/0Q38QB2P95) List contains all components excluding the Z80 CTC.
 
 Note the right angled header for the port connections was not available at the time of producing this list but all other components were in stock for shipping immediately.
 
