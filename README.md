@@ -35,7 +35,7 @@ Test schematic using 74HCT74s is included in the images folder.
 This board was also used to provide the Baud Clock for the [Amstrad CPC Z80 DART](https://github.com/rabs664/Amstrad-CPC-Z80-DART).
 
 ## PCBs
-PCBs are available from Seeed Studio but awaiting approval.
+PCBs are available from [Seeed Studio](https://www.seeedstudio.com/Simple-Z80-CTC-board-compatible-with-the-Amstrad-CPC-and-MX4-connecto-g-1393846).
 
 ## Components
 This [Digi-Key](https://www.digikey.co.uk/en/mylists/list/0Q38QB2P95) List contains all components excluding the Z80 CTC.
